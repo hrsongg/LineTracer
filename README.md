@@ -26,7 +26,7 @@
 - BreadBoard
 - DC Motor (2EA)
 - Motor Driver Module(L9110S) 
-- IR Sensor(TCRT5000)
+- IR Sensor(TCRT5000) (2EA)
 
 
 ### Software
