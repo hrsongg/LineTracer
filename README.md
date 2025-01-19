@@ -1,5 +1,5 @@
 # Line Tracer 
-[HL Mando & klemove | IVS 3rd] Line tracer를 통한 차량용 임베디드 시스템의 이해
+[HL Mando & Klemove IVS 3rd] Line tracer를 통한 차량용 임베디드 시스템의 이해
 
 
 
